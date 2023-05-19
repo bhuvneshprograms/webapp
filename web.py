@@ -8,7 +8,7 @@ def add_todo():
 
 todos = functions.load_list()
 
-st.title("My ToDo App")
+st.title("My ToDo App__")
 st.subheader("This is my todo app")
 st.write("This app is to increase your productivity")
 st.write("Double tap on the ToDo to complete it!")
